@@ -1,7 +1,6 @@
 <h1 align="center">🚀 Aerospace Engineer | Avionics Enthusiast | AI & Robotics Developer</h1>  
 <p align="center">  
   <b>B.Tech in Aerospace Engineering (3rd Year) | Ajeenkya DY Patil University</b> 🎓  
-  <br>📊 <b>CGPA:</b> 7.24  
 </p>  
 
 ---
@@ -21,10 +20,9 @@
 
 ---
 
-## 🔬 Projects  
+## 🔬 Projects
 📌 **Rocket Simulation GUI** – Built a simulation tool for rocket trajectory analysis  
 📌 **Model Rocket Telemetry System** – Developed a real-time data acquisition system  
-📌 **Solid Propellant Model Rocket** – Designed and launched a functional model rocket  
 
 ---
 
