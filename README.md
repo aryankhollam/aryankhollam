@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Aerospace Engineer | Avionics Enthusiast | AI & Robotics Developer</h1>  
+<h1 align="center">🚀 Aerospace Engineer | Avionics Enthusiast </h1>  
 <p align="center">  
   <b>B.Tech in Aerospace Engineering (3rd Year) | Ajeenkya DY Patil University</b> 🎓  
 </p>  
