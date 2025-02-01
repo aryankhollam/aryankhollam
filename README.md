@@ -38,7 +38,7 @@
 🤝 Let's **connect and collaborate!**  
 
 📩 **Email:** [aryan.khollam@gmail.com]  
-🔗 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/aryankhollam)  
+🔗 **LinkedIn:** [Aryan Khollam](https://www.linkedin.com/in/aryan-abhijeet-khollam-547a36246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 🌍 **Portfolio/GitHub:** [GitHub](https://github.com/aryankhollam)  
 
 ---
