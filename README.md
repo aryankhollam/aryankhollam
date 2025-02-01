@@ -37,8 +37,8 @@
 🚀 Looking for **internships in aerospace, avionics, and AI-driven systems** to apply my skills and gain hands-on experience.  
 🤝 Let's **connect and collaborate!**  
 
-📩 **Email:** [your.email@example.com]  
-🔗 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+📩 **Email:** [aryan.khollam@gmail.com]  
+🔗 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/aryankhollam)  
 🌍 **Portfolio/GitHub:** [GitHub](https://github.com/aryankhollam)  
 
 ---
